@@ -4,11 +4,11 @@ SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for schoo
 
 ## Instructions
 
-(1 First, sign out of your Chromebook if you haven't already.
+**(1** First, sign out of your Chromebook if you haven't already.
 
-(2 Second, go to your WiFi settings.
+**(2** Second, go to your WiFi settings.
 
-(3 Third, go to `Name servers` and set it to `Custom name servers`.
+**(3** Third, go to `Name servers` and set it to `Custom name servers`.
 
-(4 If it shows a `Network not available` page, click `Sign in as an existing user` and then the `Back` button until it shows your login page.
+**(4** If it shows a `Network not available` page, click `Sign in as an existing user` and then the `Back` button until it shows your login page.
 
