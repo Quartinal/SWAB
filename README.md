@@ -18,6 +18,6 @@ SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for schoo
 
 **(7** It should now show a 400 error page. On the page, there should be a clickable Google logo. Click it.
 
-**(7** You should now have an unblocked Google search page. If you don't, feel free to submit an issue and I will try to help.
+**(8** You should now have an unblocked Google search page. If you don't, feel free to submit an issue and I will try to help.
 
 ### Please note that this isn't a browser, so you can't go back once you're on a page. The back button doesn't do much (I learned this also 💩).
