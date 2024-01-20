@@ -20,4 +20,4 @@ SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for schoo
 
 **(7** You should now have an unblocked Google search page. If you don't, feel free to submit an issue and I will try to help.
 
-### Please note that this isn't a browser, so you can't go back from a page once you're on it. The back button doesn't do much (I learned this also 💩).
+### Please note that this isn't a browser, so you can't go back once you're on a page. The back button doesn't do much (I learned this also 💩).
