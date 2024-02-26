@@ -21,7 +21,18 @@
         font-family: monospace;
         width: 35%;
       }
-      body 
+      body h2
+      {
+        padding: 12px;
+        background-color: pink;
+        cursor: pointer;
+        transition: 0.3s cubic-bezier(0.86, 0, 0.07, 1);
+        cursor: default;
+      }
+      body h2:hover
+      {
+        background-color: salmon;
+      }
     </style>
   </head>
 
@@ -41,5 +52,23 @@
     or not, time is running down the drain for Skiovox. 
 
     <img src="./chad.png" width="595" height="314">
+
+    There has been a big advantage in kiosk exploits because you don't
+    only have access to public web URLS, but furthermore, private low-level
+    Chrome URLS like famously chrome://kill and chrome://hang, but also chrome://crash. 
+    This is especially great for extensibility, like you might want to install
+    an extension like Tampermonkey or uBlock Origin. But the only problem is, these
+    exploits are seen as the most patchable. There is a rise of sign-in screen exploits 
+    that you may want to try.
+
+    <h2 id="a">Uh, I'm sorry?</h2>
+
+    <h2 id="b">Hell yeah!</h2>
+
+    <script>
+      document.querySelector('body h2#a').onclick = () => {
+        window.location.href = "https://skiovox.netlify.app";
+      }
+    </script>
   </body>
 </html>
